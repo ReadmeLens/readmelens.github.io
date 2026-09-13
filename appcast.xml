@@ -3,6 +3,16 @@
     <channel>
         <title>ReadmeLens</title>
         <item>
+            <title>0.11.2</title>
+            <pubDate>Sun, 13 Sep 2026 12:12:47 +0530</pubDate>
+            <link>https://readmelens.github.io/</link>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>0.11.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://readmelens.github.io/ReadmeLens-0.11.2-macOS-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/SolankiYogesh/ReadmeLens/releases/download/v0.11.2/ReadmeLens-0.11.2-macOS-universal.zip" length="6495333" type="application/octet-stream" sparkle:edSignature="meoGD3O1twiTX2/44WkRzbo+vukd4LNEC3md2j5sweFIOwliI5KZS/IA/nQSzESFx5HsoErY3kn2f48QrhNSDw=="/>
+        </item>
+        <item>
             <title>0.11.0</title>
             <pubDate>Sat, 12 Sep 2026 18:00:12 +0000</pubDate>
             <link>https://readmelens.github.io/</link>
