@@ -3,6 +3,16 @@
     <channel>
         <title>ReadmeLens</title>
         <item>
+            <title>0.11.4</title>
+            <pubDate>Wed, 16 Sep 2026 13:36:27 +0000</pubDate>
+            <link>https://readmelens.github.io/</link>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.11.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://readmelens.github.io/ReadmeLens-0.11.4-macOS-universal.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/SolankiYogesh/ReadmeLens/releases/download/v0.11.4/ReadmeLens-0.11.4-macOS-universal.zip" length="6546952" type="application/octet-stream" sparkle:edSignature="uDVZrKylbiEtNAtRFzvuGbHhUhVuhCMXnNiM1iuKnXQ1sB2arB1HNN4Mbzumc5Z1cPMlYFdnXaTYEITNxOWgDg=="/>
+        </item>
+        <item>
             <title>0.11.3</title>
             <pubDate>Sun, 13 Sep 2026 07:35:19 +0000</pubDate>
             <link>https://readmelens.github.io/</link>
@@ -21,16 +31,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://readmelens.github.io/ReadmeLens-0.11.2-macOS-universal.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/SolankiYogesh/ReadmeLens/releases/download/v0.11.2/ReadmeLens-0.11.2-macOS-universal.zip" length="6495333" type="application/octet-stream" sparkle:edSignature="meoGD3O1twiTX2/44WkRzbo+vukd4LNEC3md2j5sweFIOwliI5KZS/IA/nQSzESFx5HsoErY3kn2f48QrhNSDw=="/>
-        </item>
-        <item>
-            <title>0.11.0</title>
-            <pubDate>Sat, 12 Sep 2026 18:00:12 +0000</pubDate>
-            <link>https://readmelens.github.io/</link>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>0.11.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://readmelens.github.io/ReadmeLens-0.11.0-macOS-universal.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/SolankiYogesh/ReadmeLens/releases/download/v0.11.0/ReadmeLens-0.11.0-macOS-universal.zip" length="6495256" type="application/octet-stream" sparkle:edSignature="+mBOO6x+EB6xREdVfvemJnwCWoKBkAj16jy5YvGvv8OvGKQ0rUoRXjtWMut3uiXI/xu6FDhV5cLGWn1rWV6iBg=="/>
         </item>
     </channel>
 </rss>
