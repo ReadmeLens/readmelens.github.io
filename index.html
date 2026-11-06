@@ -125,9 +125,11 @@
   h3 { font-size: 1.05rem; margin: 26px 0 6px; }
   p { color: #c9d1d9; }
   a { color: var(--accent); }
-  img.shot {
-    width: 100%; border-radius: 10px; border: 1px solid var(--border); margin: 22px 0;
+  img.shot, video.shot {
+    display: block; width: 100%; max-width: 100%; height: auto;
+    border-radius: 10px; border: 1px solid var(--border); margin: 22px 0;
   }
+  video.shot { aspect-ratio: 16 / 9; background: #0d1117; }
   ul { color: #c9d1d9; padding-left: 20px; }
   li { margin: 7px 0; }
   code {
